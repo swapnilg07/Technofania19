@@ -1,0 +1,4 @@
+functuin validation()
+{
+	alert("Hello");
+}
