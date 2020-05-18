@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Technofania19</title>
+<title>Technofania'19</title>
 	<meta charset="utf-8">
   	<meta name="viewport" content="width=device-width, initial-scale=1">
  	<link rel="stylesheet" href="css2/bootstrap.css">
